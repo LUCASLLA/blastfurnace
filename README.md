@@ -1,6 +1,6 @@
 # Operationally Aware Historical Similarity Search for Blast Furnace Control
 
-Suplementary Material:
+Supplementary Material:
 https://drive.google.com/file/d/1cXu03ePvddDWplBS1gzqOAxk99_d8hL9/view?usp=drive_link
 
 Supplementary video: 
